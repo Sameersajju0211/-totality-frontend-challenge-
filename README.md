@@ -1,82 +1,55 @@
+Food Order App
+This project was bootstrapped with Create React App.
 
+Scripts to Run
+In the project directory, you can use the following commands:
 
-![image](https://github.com/Aryan26-bit/Foodorderapp/assets/53808891/41f2227b-e718-430f-9953-1a8875941647)
-![image](https://github.com/Aryan26-bit/Foodorderapp/assets/53808891/9b0f62f6-344a-4247-85b9-306153145298)
-![image](https://github.com/Aryan26-bit/Foodorderapp/assets/53808891/cb4597bc-a086-4f24-91ab-292336582af3)
-![image](https://github.com/Aryan26-bit/Foodorderapp/assets/53808891/42b0b507-59d8-4f96-8801-7d9f22752827)
-![image](https://github.com/Aryan26-bit/Foodorderapp/assets/53808891/67b6af0d-f3f9-407f-a09c-18f078f844ff)
+npm start
+Launches the app in development mode.
+Visit http://localhost:3000 in your browser to view it.
 
+The page will automatically reload if you make changes to the source code.
+You might also see linting errors in the console.
 
+npm test
+Starts the test runner in interactive watch mode.
+For more details, see running tests.
 
+npm run build
+Compiles the app for production and outputs the files to the build folder.
+It minifies the code and optimizes the build for the best performance.
 
+The filenames include hashes for caching purposes.
+Your app is now ready to be deployed!
 
-# Getting Started with Create React App
+For more information, see deployment.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npm run eject
+Note: This is a one-way operation. Once you eject, you cannot revert back!
 
-## Available Scripts
+If you need more control over the configuration, you can eject at any time. This will copy all the configuration files and dependencies (webpack, Babel, ESLint, etc.) directly into your project, allowing full control over them. All the usual commands will still work, but they will use your customized scripts.
 
-In the project directory, you can run:
+However, most users do not need to use eject. The default setup is suitable for small to medium deployments. Only use this feature if you need to customize the configuration.
 
-### `npm start`
+Additional Information
+You can find more details in the Create React App documentation.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To learn more about React, visit the React documentation.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Code Splitting
+For information on how to split your code to improve performance, visit Code Splitting.
 
-### `npm test`
+Analyzing Bundle Size
+To learn how to analyze the size of your app's bundle, check out Analyzing the Bundle Size.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Making a Progressive Web App
+For details on how to make your app a Progressive Web App, see Making a Progressive Web App.
 
-### `npm run build`
+Advanced Configuration
+For advanced configuration options, visit Advanced Configuration.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Deployment
+For deployment instructions, check out Deployment.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+npm run build fails to minify
+If you encounter issues with minification during the build process, refer to Troubleshooting: npm run build fails to minify.
